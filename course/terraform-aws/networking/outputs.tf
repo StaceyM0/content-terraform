@@ -1,3 +1,6 @@
+
+
+
 #-----networking/outputs.tf
 
 output "public_subnets" {
