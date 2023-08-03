@@ -1,6 +1,3 @@
-
-
-
 #----------storage/main.tf-------
 
 # Create a random id 
