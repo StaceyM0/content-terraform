@@ -1,6 +1,3 @@
-
-
-
 #-----compute/variables.tf
 
 variable "key_name" {}
